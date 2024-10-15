@@ -14,6 +14,9 @@ Avançado: Incluir análises de risco, estimativas de custos, e alocação de re
 
 Link Trello: https://trello.com/invite/b/670d7d63e9e164f58c364c13/ATTI2586c0f1e0699813360efad3d9583ca4ECD62110/case-tecnico-dadosfera
 
+![Captura de Tela (392)](https://github.com/user-attachments/assets/eb1b5a61-c1e2-448a-8bdf-52b72cbc15e7)
+
+
 # Item 1 - Sobre a Base de Dados
 
 Seguindo o cenário proposto na definição do Case, pesquise e sugira uma base de dados para fazer todo case ponta a ponta.
