@@ -53,6 +53,8 @@ Com os dados importados, precisamos propor uma modelagem de dados que seja condi
 
 Crie um modelagem seguindo os princípios de Kimball, Data Vault ou outro - que deve ser explicado e justificado - com 2 visões finais dos dados.
 
+Resposta no link: https://github.com/gabrielagazola/Gabriela_Gazola_DDF_TECH_102024/blob/main/item6.md
+
 # Item 7 - Sobre Análise de Dados - Analisar
 
 Crie uma Coleção com o formato - <mes_ano> assim como no exemplo:
