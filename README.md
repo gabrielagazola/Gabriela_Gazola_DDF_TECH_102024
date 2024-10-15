@@ -41,6 +41,8 @@ Para melhorar a qualidade dos dados no e-commerce e otimizar a performance de mo
 
 Gere um relatório de qualidade dos dados usando uma biblioteca apropriada - great-expectations ou soda-core - para identificar inconsistências e dados faltantes.
 
+Relatório se encontra em: https://github.com/gabrielagazola/Gabriela_Gazola_DDF_TECH_102024/blob/main/report_quality_date.py
+
 # Item 5 - Sobre o uso de GenAI e LLMs - Processar
 
 Traga um dataset desestruturado e, utilizando IA, gere features em cima desses dados.
