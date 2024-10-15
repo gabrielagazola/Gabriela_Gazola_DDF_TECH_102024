@@ -17,8 +17,9 @@ Link Trello: https://trello.com/invite/b/670d7d63e9e164f58c364c13/ATTI2586c0f1e0
 # Item 1 - Sobre a Base de Dados
 
 Seguindo o cenário proposto na definição do Case, pesquise e sugira uma base de dados para fazer todo case ponta a ponta.
-Base escolhida: https://learn.microsoft.com/en-us/sql/samples/adventureworks-install-configure?view=sql-server-ver16&tabs=ssms
-![Captura de Tela (391)](https://github.com/user-attachments/assets/7646b65b-7019-472e-a5e2-448d1af1a71c)
+
+Para escolher a base foi utilizado o site Kaggle, e como base de dados sugeridas pelo site de acordo com o tema do case, foi selecionado a base de dados disponibilizada no link: https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce
+
 
 # Item 2.1 - Sobre a Dadosfera - Integrar
 
