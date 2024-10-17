@@ -85,6 +85,10 @@ Crie uma Coleção com o formato - <mes_ano> assim como no exemplo:
 
 Crie um dashboard que mostre uma análise das categoria e uma análise de série-temporal. Salve a Query SQL utilizada e também o print do resultado da query no documento markdown deste teste. Crie, pelo menos, 5 visualizações/questões em cima dos dados, utilizando 5 tipos de visualizações diferentes.
 
+**Resposta**
+
+As respostas para esse item podem ser encontradas no documento https://github.com/gabrielagazola/Gabriela_Gazola_DDF_TECH_102024/blob/main/item7.md
+
 # Item 8 - Sobre Pipelines
 
 Uma das etapas essenciais de um projeto de Dados é a criação de Pipelines de Dados. Desde o processo de criação de modelos inteligentes, utilizando-se de Machine Learning, até a Engenharia de Dados, com Pipelines de Transformação e Limpeza de Dados.
