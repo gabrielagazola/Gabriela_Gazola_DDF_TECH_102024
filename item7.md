@@ -1,3 +1,7 @@
+# Coleção Criada
+
+![Captura de Tela (401)](https://github.com/user-attachments/assets/d2e85379-07c5-4123-8b6b-0e107df624ee)
+
 # Queries SQL
 
 ## Perguntas
