@@ -63,6 +63,14 @@ Relatório se encontra em: https://github.com/gabrielagazola/Gabriela_Gazola_DDF
 
 Traga um dataset desestruturado e, utilizando IA, gere features em cima desses dados.
 
+**Resposta**
+
+As features podem ser acessadas no documento pelo link: https://github.com/gabrielagazola/Gabriela_Gazola_DDF_TECH_102024/blob/main/item5-features.md
+
+![Captura de Tela (397)](https://github.com/user-attachments/assets/209d1fe8-4ee2-410a-8a02-4d1abd40a445)
+
+
+
 # Item 6 - Sobre Modelagem de Dados
 
 Com os dados importados, precisamos propor uma modelagem de dados que seja condizente com o cenário dos dados e do cliente.
