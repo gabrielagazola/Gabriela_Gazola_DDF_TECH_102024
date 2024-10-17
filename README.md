@@ -30,9 +30,22 @@ Vamos iniciar com o carregamento e posterior análise descritiva dos dados propo
 
 Lembre-se: você deve carregar, pelo menos, 100.000 registros para que seu case seja avaliado por completo.
 
+**Resposta**
+
+A base de dados escolhida foi carregada com sucesso para a plataforma, podemos acessar pelo link: https://app.dadosfera.ai/pt-BR/collect/pipelines
+
 # Item 3 - Sobre a Dadosfera - Explorar
 
 Usando os seus conhecimentos da documentação da Dadosfera, faça a carga desse dataset, catalogue-o com as informações mais relevantes, seguindo boas práticas de Dicionário de Dados.
+
+**Resposta**
+
+Os datasets foram catalogados, podemos acessar pelo link: https://app.dadosfera.ai/pt-BR/catalog/data-assets
+
+![Captura de Tela (393)](https://github.com/user-attachments/assets/12945e04-7a3c-49bf-bb52-242dd7b2c002)
+
+![Captura de Tela (395)](https://github.com/user-attachments/assets/0068fc6f-b470-43b1-bb1d-c595a4b7b4c4)
+
 
 # Item 4 - Sobre Data Quality
 
