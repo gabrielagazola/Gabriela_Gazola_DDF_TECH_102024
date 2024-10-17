@@ -1,5 +1,7 @@
 # Coleção Criada
 
+Pode ser acessada pelo link : https://metabase-treinamentos.dadosfera.ai/dashboard/196-dashboard-ecommerce-gabrielagazola
+
 ![Captura de Tela (401)](https://github.com/user-attachments/assets/d2e85379-07c5-4123-8b6b-0e107df624ee)
 
 # Queries SQL
