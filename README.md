@@ -101,6 +101,8 @@ Agora você tem que criar um Data App utilizando Streamlit para explorar os dado
 
 # Item 10 - Apresentação do Case
 
-Após a primeira reunião com nossa equipe de vendas, você deve fornecer uma solução técnica que atenda às exigências e se encaixe na arquitetura deles. Aqui está o diagrama da arquitetura atual deles:
+Após a primeira reunião com nossa equipe de vendas, você deve fornecer uma solução técnica que atenda às exigências e se encaixe na arquitetura deles. 
 
 Você deve mostrar, com base nos seus estudos sobre a Documentação da Dadosfera, a viabilidade de substituirmos essa solução pelo case construído.
+
+Link da apresentação: https://youtu.be/NbdAGm8i2c8
